@@ -41,6 +41,6 @@ AI SDK: AsyncOpenAI (openai>=1.30.0)
 Streaming: sse-starlette
 🔥 Looking for a Production-Ready AI SaaS Boilerplate?
 Need a full stack with user authentication, credit/usage limits, PostgreSQL database, and automated Stripe billing?
-👉 https://gumroad.com/products/cviylg/edit
+👉 [https://skassets.gumroad.com/l/cviylg]
 📝 License
 MIT License. Free to use in personal and commercial projects.
